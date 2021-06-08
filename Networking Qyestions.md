@@ -1,27 +1,39 @@
-### What is the full from of OSI Model?
+### 1.What is the full from of OSI Model?
 
 ans - Open System Interconnection
 
-### OSI Model is Developed by?
+### 2.OSI Model is Developed by?
 
 ans- ISO
 
-### How many Layers are in OSI Model?
+### 3.How many Layers are in OSI Model?
 
 ans - 7 Layes
 
-### How Many Layers are in TCP/IP?
+### 4.How Many Layers are in TCP/IP?
 
 ans - 4 Layer
 
-### What is the IEEE standard of Ethernet ?
+### 5.What is the IEEE standard of Ethernet ?
 
 ans - 802.3
 
-### What is the IEEE standard of B/t (Bluetooth) ?
+### 6.What is the IEEE standard of B/t (Bluetooth) ?
 
 ans - 802.15
 
-### What is the IEEE standard of wireless LAN ?
+### 7.What is the IEEE standard of wireless LAN ?
 
 ans - 802.11
+
+### 8. Which is a standrad interface for serial data transmission?
+
+ans -RS232C
+
+### 9. Which of the following transmission directions listed is not a legitimate channel ?
+
+ans -Double Duplex
+
+### 10. What kind of transmission medium is most appropriate to carry data in a computer network that is exposed to electrical interferences?
+
+ans - Optical fiber

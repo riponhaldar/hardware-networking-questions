@@ -35,3 +35,43 @@ ans - ROM BIOS
 ### 10. What could cause a fixed disk error ?
 
 ans - incorrect CMOS setting
+
+### 11.RAM full form?
+
+ans -Random Access Memory
+
+### 12.Data in RAM are:
+
+ans - Volatile in nature
+
+### 13. BIOS full form?
+
+ans - Basic input output system
+
+### 14. Refresh rate of a monitor is measured in:
+
+ans - Hz
+
+### 15. Which od the following is used between cpu and ram to speed up the processing power of a CPU ?
+
+ans - Cache Memory
+
+### 16.What is a device connecting a network without using a cable?
+
+ans - wireless
+
+### 17. Where data is recorded in a floppy disk -
+
+ans - Tracks
+
+### 18.The part of the computer that anyone can touch
+
+ans - Hardware
+
+### 19. An electronic device that converts data into information and processes it -
+
+ans - Computer
+
+### 20. When the computer shuts down, the..... contents are lost -
+
+ans - Memory

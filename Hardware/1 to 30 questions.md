@@ -75,3 +75,43 @@ ans - Computer
 ### 20. When the computer shuts down, the..... contents are lost -
 
 ans - Memory
+
+### 21.what is system bus ?
+
+ans -The communication path bwtween the cpu and the memory.
+
+### 22. true or false ? There is at least one cooling system inside every personal computer.
+
+ans - true
+
+### 23. Whare is the system BIOS stored ?
+
+ans - On ROM chips
+
+### 24. Which system unit components are connected by the system bus ?
+
+ans - CPU , Memory
+
+### 25. Which storage device emualtes a mechanical storage device?
+
+ans- solid state storage
+
+### 26. Which optical drive type enable you to write to an optical disk only once?
+
+ans- CD-R, DBD+R
+
+### 27. What type of optical disk can hold 50 BG of data?
+
+ans - Blu-ray
+
+### 28. which Pc connection type uses 40 or 80 wride ribbon cables to connect internal components such as hard drives, optical drives, and type drives to the sytem board?
+
+ans - PATA
+
+### 29. Which connection type supports up to 127 peripherals in a singel connection?
+
+ans- USB
+
+### 30. True or False ? Windows XP includes the windows Aero inteface.
+
+ans - False

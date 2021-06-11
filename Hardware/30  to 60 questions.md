@@ -26,22 +26,78 @@ ans - Power supplies
 
 ans - input/ output adapters
 
-### 42 .
+### 42 .Which stanar govern parallel communications?
 
-ans -
+ans - IEEE 1284
 
-### 43
+### 43.Which peripheral port provides the fastest throughput to laser printers-
 
-### 44
+ans - Rs-232
 
-### 45 .
+### 44. Dot matrix printer is an example of
 
-### 46 .
+ans - Impact printer
 
-### 47 .
+### 45 . Which memory is known as volatile memory?
 
-### 48 .
+ans - RAM
 
-### 49 .
+### 46 . Which of following cable uses RJ45 connectors?
 
-### 50 .
+ans -Shielded Twisted Pair Cable
+
+### 47 . **\_\_\_** is used as a high speed network backbone media
+
+ans - Fiber Optic Cable
+
+### 48 .In inkjet technology the droplets of ink are deflected by.....
+
+ans -Electrically Charge Plate
+
+### 49 .Which of the following requires refreshing during retaning the data?
+
+ans - DRAM
+
+### 50 . Which of the following is used between cpu and Ram to speed up the processing power of a CPU?
+
+ans -Cache Memory
+
+### 51 .Which of the following is lowest in memory hierarchy?
+
+ans -Secondary Memory
+
+### 52 .CRT stands for?
+
+ans -Cathode Ray Tube
+
+### 53 .Which of the following is a GUI device?
+
+ans -Mouse
+
+### 54 .. LCD stands for?
+
+ans -Liquid crystal Display
+
+### 55 The types of printers, in which the printing head contacts with the paper in printing process, are called as:
+
+ans -Impact printer
+
+### 56 .Which of the following is a type of optical media?
+
+ans - CD
+
+### 57 .. A wireless technology built in electronic gadgets used for exchanging data over short distances is?
+
+ans -Bluetooth
+
+### 58 . DVD stands for?
+
+ans -Digital versatile Disk
+
+### 59 . Which MotherBoard from factor uses one 20 pin connector?
+
+ans - ATX
+
+### 60 . Which standard govern parallel communications?
+
+ans -IEEE 1284
